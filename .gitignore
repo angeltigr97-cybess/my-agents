@@ -1,0 +1,7 @@
+# Claude Code — личные настройки
+.claude/settings.local.json
+
+# Секреты
+.env
+.env.*
+!.env.example
