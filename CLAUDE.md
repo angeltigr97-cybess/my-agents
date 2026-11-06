@@ -16,6 +16,7 @@
 - Имена папок агентов — `kebab-case`.
 - Не коммитить секреты (API-ключи, токены). Ключи — только через переменные окружения; пример — в `.env.example`.
 - Личные настройки Claude Code — в `.claude/settings.local.json` (он в `.gitignore`).
+- Правила безопасности для ревью кода — в `.claude/claude-security-guidance.md` (плагин security-guidance).
 
 ## Проверка изменений
 
